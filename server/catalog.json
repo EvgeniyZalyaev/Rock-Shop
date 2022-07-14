@@ -1,0 +1,85 @@
+ [
+    {
+        "id": "el1",
+        "name": "Футболка Metallica And Justice For All ",
+        "img": "https://i.ibb.co/t2p8vNY/Metallica.webp",
+        "price": 350
+    },
+
+    {
+        "id": "el2",
+        "name": "Футболка Judas Priest 50 Heavy Metal Years ",
+        "img": "https://i.ibb.co/0YwMMfq/Judas-Priest.webp",
+        "price": 350
+    },
+
+    {
+        "id": "el3",
+        "name": "Футболка Motley Crue Girls,Girls,Girls (black)",
+        "img": "https://i.ibb.co/CHC8tMQ/Motley-Crue.webp",
+        "price": 350
+    },
+
+    {
+        "id": "el4",
+        "name": "Футболка Motorhead  Aftershok",
+        "img": "https://i.ibb.co/qyV7Kpj/Motorhead.webp",
+        "price": 150
+    },
+
+    {
+        "id": "el5",
+        "name": "Футболка Manowar The Lord Of Steel",
+        "img": "https://i.ibb.co/YLFDKJv/Manowar.webp",
+        "price": 200
+    },
+
+    {
+        "id": "el6",
+        "name": "Футболка Welcome To Chornobaїvka",
+        "img": "https://i.ibb.co/rbz53QZ/Chornobaevka.webp",
+        "price": 350
+    },
+
+    {
+        "id": "el7",
+        "name": "Футболка AC/DC Black Ice (patten)",
+        "img": "https://i.ibb.co/xFfQcbQ/AC-DC.webp",
+        "price": 350
+    },
+
+    {
+        "id": "el8",
+        "name": "Футболка Arch Enemy The World Is Yours",
+        "img": "https://i.ibb.co/MBndb96/Arch-Enemy.webp",
+        "price": 350
+    },
+
+    {
+        "id": "el9",
+        "name": "Футболка Kiss End of the Road (world tour)",
+        "img": "https://i.ibb.co/WBpY0NV/Kiss.webp",
+        "price": 350
+    },
+
+    {
+        "id": "el10",
+        "name": "Дитяча футболка Nirvana (smile) чорна",
+        "img": "https://i.ibb.co/tXxytrZ/Nirvana.webp",
+        "price": 290
+    },
+
+    {
+        "id": "el11",
+        "name": "Футболка Iron Maiden The Number of the Beast",
+        "img": "https://i.ibb.co/1TH4Sdw/Iron-Maiden.webp",
+        "price": 350
+    },
+
+    {
+        "id": "el12",
+        "name": "Футболка Guns N’ Roses (Guns N’ Roses Was Here)",
+        "img": "https://i.ibb.co/X4mG8K5/Guns-N-Roses.webp",
+        "price": 350
+    }
+]
