@@ -6,14 +6,13 @@ class Header {
     render(count) {
         const html = `
            <div class="header-container">
-           <div class="nav-bar">
-                <ul class="menu">
-                    <li><a href="#">Home</a></li>
-                    <li>1</li>
-                    <li>1</li>
-                    <li>1</li>
-                </ul>
-            </div>
+             <nav>
+                <a href="#">Отзывы</a>
+                <a href="#">Доставка и оплата</a>
+                <a href="#">Возврат и обмен</a>
+                <a href="#">Размерная сетка</a>
+                <a href="#">Контакты</a>
+             </nav>
                 <div class="header-counter" onclick="headerPage.handlerOpenShoppingPage();">
                     🔥 ${count}
                 </div>
